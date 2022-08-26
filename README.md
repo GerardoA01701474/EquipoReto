@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-## Gerardo Pena Perez
+## Gerardo Peña Pérez
 ## Carlos Alberto Hurtado 
-## Kevin Joan Delgado Perez
+## Kevin Joan Delgado Pérez
 
 Repositorio para las actividades del reto de machine learning
 
