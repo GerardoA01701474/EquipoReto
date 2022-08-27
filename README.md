@@ -16,11 +16,11 @@ Los datasets contienen las fechas, tiendas e informacion sobre las familias de p
 
 En el repositorio es posbile encontrar los datasets, los cuales son 6:
 
- -Train
- -Test
- -Store
- -Transactions
- -Holidays and Events
- -Daily Oil Price
+ - Train
+ - Test
+ - Store
+ - Transactions
+ - Holidays and Events
+ - Daily Oil Price
  
 En el repositorio también es posible encontrar el archivo .ipynb donde se encuentra toda la toma de decisiones del equipo, las justificaciones, gráficas, tablas y las propuestas de análisis de los datasets, esto para generar un mejor modelo posible y que esté dirigido a las conclusiones a generar. 
