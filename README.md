@@ -5,6 +5,7 @@
 - Gerardo Peña Pérez
 - Carlos Alberto Hurtado Sanchez
 - Kevin Joan Delgado Pérez A01706328
+- Wenguang hu
 
 Repositorio para las actividades del reto de machine learning
 
