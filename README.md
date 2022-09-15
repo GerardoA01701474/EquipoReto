@@ -9,8 +9,7 @@
 
 Repositorio para las actividades del reto de machine learning
 
-La notebook con el reto final se llama final proyect.ipynb
-El link al video explicando la aplicación web es: https://youtu.be/m2apfpoLT4s
+La notebook con el reto final se llama "Final proyect.ipynb" y el link al video explicando la aplicación web es: https://youtu.be/m2apfpoLT4s
 
 Descripcion del Reto:
 
