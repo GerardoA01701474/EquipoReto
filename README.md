@@ -9,7 +9,8 @@
 
 Repositorio para las actividades del reto de machine learning
 
-La notebook con el reto final se llama "Final proyect.ipynb" y el link al video explicando la aplicación web es: https://youtu.be/m2apfpoLT4s
+- La notebook con el reto final se llama "Final proyect.ipynb" y se obtuvo un score de 0.55301 al subirlo a la plataforma de kaggle
+- el link al video explicando la aplicación web es: https://youtu.be/m2apfpoLT4s
 
 Descripcion del Reto:
 
