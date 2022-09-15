@@ -9,6 +9,9 @@
 
 Repositorio para las actividades del reto de machine learning
 
+La notebook con el reto final se llama final proyect.ipynb
+El link al video explicando la aplicación web es: https://youtu.be/m2apfpoLT4s
+
 Descripcion del Reto:
 
 El reto consiste en predecir las ventas para las familias de productos vendidos en las tiendas de la corporacion Favorita en Ecuador.
